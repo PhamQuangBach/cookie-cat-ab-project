@@ -9,7 +9,7 @@ game, from statistical testing to a business recommendation.
 | **Method** | Bootstrap + Chi-squared |
 | **Tools** | Python · Tableau |
 
-**Recommendation:** Keep the gate at level 30. Moving it to level 40 led to a statistically significant drop in 7-day retention for a live game.
+**Recommendation:** Keep the gate at level 30. Moving it to level 40 led to a statistically significant drop in 7-day retention for mid-core players for a live game.
 
 ## Business context
 
@@ -24,9 +24,9 @@ Cookie Cats is a mobile puzzle game where players occasionally hit "gates", forc
 
 ## Key findings
 
-- Gate 30 outperformed gate 40 on 7-day retention by ~0.8 percentage points
+- For mid-core player (players who played 30 - 100 rounds) only, Gate 30 outperformed gate 40 on 7-day retention by ~2.18 percentage points
 - Bootstrap confidence intervals confirm the difference is not due to chance
-- 1-day retention showed a smaller, less conclusive gap between groups
+- all other player segments for 7-day and 1-day retention showed a smaller, less conclusive gap between groups
 
 ## Links
 
